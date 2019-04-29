@@ -22,6 +22,7 @@ We will find the job title, location and salary.
 When we click on an offer (elements of the list presented above), the user is redirected 
 to a page completely detailing the offer. It will contain the title of the offer, the location, 
 the salary and the description of the position to be filled.
+<img src="https://nsa40.casimages.com/img/2019/04/29/190429013141482300.gif" width="311" height="553">
 ## Graphical charter
 ### The logo
 The logo has been designed by Aude PONS. The chosen writing fonts are 
